@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animator
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:valueType="intType"
+    android:duration="2000"
+    android:valueFrom="210"
+    android:valueTo="450"
+    android:repeatMode="reverse"
+    android:repeatCount="3"
+
+    >
+
+</animator>
